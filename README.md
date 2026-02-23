@@ -1,4 +1,4 @@
-# 👋 Ayush Sharma
+# 👋 Hi, I’m Ayush
 
 **AI Systems Engineer | Python | FastAPI | MySQL | Data Engineering**
 
