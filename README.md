@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Ayush
 
-<!--
-**Ayush-Sharma001/Ayush-Sharma001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems that make data useful.
 
-Here are some ideas to get you started:
+I work with Python to design scalable APIs and structured database systems. My focus is on clean architecture, efficient data processing, and building practical applications that turn raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- Python  
+- FastAPI  
+- MySQL  
+- Pandas & NumPy  
+- Git & GitHub  
+- Power BI  
+
+---
+
+## 🚀 What I’m Building
+
+- Backend applications with REST APIs  
+- Structured database systems  
+- Data processing pipelines  
+- Analytics-driven platforms  
+
+---
+
+## 🎯 Goal
+
+To grow as an AI Systems Engineer and contribute to building reliable, data-driven applications.
