@@ -1,31 +1,53 @@
-# 👋 Hi, I’m Ayush
+# 👋 Ayush Sharma
 
-I build backend systems that make data useful.
+**AI Systems Engineer | Python | FastAPI | MySQL | Data Engineering**
 
-I work with Python to design scalable APIs and structured database systems. My focus is on clean architecture, efficient data processing, and building practical applications that turn raw data into meaningful insights.
+I design and build backend systems that process structured data and expose meaningful analytics through scalable APIs.
+
+My work focuses on combining backend engineering with data processing to create intelligent, production-ready applications.
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python  
-- FastAPI  
-- MySQL  
-- Pandas & NumPy  
-- Git & GitHub  
-- Power BI  
+**Language:** Python  
+
+**Backend:** FastAPI, Flask, Django  
+
+**Database:** MySQL (Schema Design, Joins, Indexing)  
+
+**Data Processing:** Pandas, NumPy  
+
+**Visualization:** Power BI, Excel  
+
+**Version Control:** Git, GitHub  
 
 ---
 
-## 🚀 What I’m Building
+## 🚀 Featured Work
 
-- Backend applications with REST APIs  
-- Structured database systems  
-- Data processing pipelines  
-- Analytics-driven platforms  
+### Intelligent Business Analytics Backend
+
+- Built a modular backend system using FastAPI  
+- Processed and cleaned Excel datasets using Pandas  
+- Designed relational MySQL schema  
+- Developed REST APIs for revenue and growth analytics  
+- Integrated database with Power BI dashboard  
+
+**Focus Areas:**  
+Clean architecture • Structured APIs • Optimized queries • Data-driven design  
 
 ---
 
-## 🎯 Goal
+## 🎯 Current Focus
 
-To grow as an AI Systems Engineer and contribute to building reliable, data-driven applications.
+- Backend system design  
+- Database optimization  
+- Data pipeline improvement  
+- Preparing for AI & backend engineering roles  
+
+---
+
+## 📫 Connect
+  
+Email: ayushkumarsharma850@gmail.com
